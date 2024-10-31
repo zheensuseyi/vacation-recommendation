@@ -1,6 +1,6 @@
 <div><div align="center">
   
-<h1> vacation-recommendation🌴 </h1>
+<h1> Vacation Recommendation🌴 </h1>
 
 <h2> OVERVIEW </h2>
 
